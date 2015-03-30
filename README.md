@@ -36,7 +36,7 @@ into this:
 ## Conversion
 
 ```bash
-~/RubyJSONCamelizer $ ruby main.rb #<original file> #<new file>
+~/RubyJSONCamelizer/dist $ ruby main.rb #<original file> #<new file>
 
 # => if new file exists already, it will confirm if you want to overwrite it
 ```
