@@ -30,3 +30,7 @@ Used primarily in <a href="http://periodictable.heroku.com">this Periodic Table 
 
 - Removes anything that's in parentheses from the keys
 - Creates **camelCase** keys
+
+<hr>
+
+Copyright &copy; 2015 Joshua Beam (MIT License)
