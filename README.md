@@ -41,6 +41,12 @@ into this:
 # => if new file exists already, it will confirm if you want to overwrite it
 ```
 
+### Example
+
+```bash
+~/RubyJSONCamelizer/dist $ ruby main.rb ../../SomeProjectFolder/someData.json ../../SomeProjectFolder/newCamelizedData.json
+```
+
 Used primarily in <a href="http://periodictable.heroku.com">this Periodic Table application</a> to convert data into a streamlined format.
 
 # Features
