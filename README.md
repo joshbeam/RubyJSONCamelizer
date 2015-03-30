@@ -18,6 +18,15 @@ into this:
 
 # Usage
 
+## Installation
+
+```bash
+~ $ git clone https://www.github.com/joshbeam/RubyJSONCamelizer
+```
+
+
+## Conversion
+
 ```bash
 ~/RubyJSONCamelizer $ ruby main.rb #<original file> #<new file>
 
