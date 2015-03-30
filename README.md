@@ -13,20 +13,18 @@ Convert this:
 into this:
 
 ```json
-[
-	{
-		"someKey"	:	"Some Value"
-	}
-]
+[{"someKey":"Some Value"}]
 ```
 
 # Usage
 
 ```bash
-# inside RubyJSONCamelizer directory
+~/RubyJSONCamelizer $ ruby main.rb #<original file> #<new file>
 
-$ ruby main.rb #<original file> #<new file>
+# => if new file exists already, it will confirm if you want to overwrite it
 ```
+
+Used primarily in <a href="http://periodictable.heroku.com">this Periodic Table application</a> to convert data into a streamlined format.
 
 # Features
 
