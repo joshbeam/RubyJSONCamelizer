@@ -20,8 +20,16 @@ into this:
 
 ## Installation
 
+### Dependencies
+
 ```bash
-~ $ git clone https://www.github.com/joshbeam/RubyJSONCamelizer
+~ $ gem install json
+```
+
+### Source
+
+```bash
+~ $ git clone https://www.github.com/joshbeam/RubyJSONCamelizer.git
 ```
 
 
